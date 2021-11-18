@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eddis/CLionProjects/untitled9/MultiMap.cpp
+MultiMap.h
+C:/Users/eddis/CLionProjects/untitled9/MultiMap.h
+MultiMapIterator.h
+C:/Users/eddis/CLionProjects/untitled9/MultiMapIterator.h
+exception
+-
+iostream
+-
+
+C:/Users/eddis/CLionProjects/untitled9/MultiMap.h
+vector
+-
+utility
+-
+
+C:/Users/eddis/CLionProjects/untitled9/MultiMapIterator.cpp
+MultiMapIterator.h
+C:/Users/eddis/CLionProjects/untitled9/MultiMapIterator.h
+MultiMap.h
+C:/Users/eddis/CLionProjects/untitled9/MultiMap.h
+
+C:/Users/eddis/CLionProjects/untitled9/MultiMapIterator.h
+MultiMap.h
+C:/Users/eddis/CLionProjects/untitled9/MultiMap.h
+
